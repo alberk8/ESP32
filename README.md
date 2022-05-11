@@ -1,5 +1,7 @@
 # nanoFramework ESP32 Custom Build
-The build is based in IDF 4.4.1 with latest [nf-interpreter](https://github.com/nanoframework/nf-interpreter.git) hash 3c0351642bf6349f3fca08b2cafabc38db62ab30 
+The build is based in IDF 4.4.1 with latest [nf-interpreter](https://github.com/nanoframework/nf-interpreter.git) 
+- Source Date: 11-May-2022
+- Compile Date: 11-May-2022
 
 ## How to Deploy firmware
 1) copy the nanoCLR.bin for the bin directory of this repo to temporary directory.  
